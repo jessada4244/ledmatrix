@@ -1,0 +1,26 @@
+name: led_matrix_app
+description: A Flutter application for managing LED matrix messages.
+
+publish_to: 'none' # Remove this line if you plan to publish your app to the public repository
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^4.17.5
+  firebase_auth: ^4.5.0
+  flutter_colorpicker: ^1.0.3
+  firebase_core: ^2.10.0
+  cupertino_icons: ^1.0.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
