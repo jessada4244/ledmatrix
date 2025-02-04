@@ -7,6 +7,44 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:607358170844:android:58ba502342aab1a46ca619",
+        "android_client_info": {
+          "package_name": "com.cpetc.ledmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQI3eKxMXLw7ah7wFOSClxn_njZ7CnxXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607358170844:android:22276f5c7867fa916ca619",
+        "android_client_info": {
+          "package_name": "com.cpetc_ledmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQI3eKxMXLw7ah7wFOSClxn_njZ7CnxXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:607358170844:android:b9516f36366b0e0c6ca619",
         "android_client_info": {
           "package_name": "com.example.ledmatrix"
